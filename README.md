@@ -1,2 +1,2 @@
 # React_Components
-React based UI Components
+React material UI Components
